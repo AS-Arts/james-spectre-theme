@@ -1,11 +1,12 @@
-# james-spectre-theme
-JAMES is a lightweight, responsive and modern theme with Spectre.css
+# JAMES Spectre.css Theme
+JAMES is a lightweight, responsive and modern theme based on Spectre.css
 
 [Demo](https://blog.andreas-schmidt-arts.de/demo/james/)
 
 
 ## Features
 
+* One Page
 * HTML5 Theme
 * Lightweight
 * Pure CSS3
