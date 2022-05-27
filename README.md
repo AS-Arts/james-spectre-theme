@@ -1,7 +1,7 @@
 # JAMES Spectre.css Theme
 JAMES is a lightweight, responsive and modern theme based on Spectre.css
 
-[Demo](https://blog.andreas-schmidt-arts.de/demo/james/)
+[Demo](https://theartsblog.de/demo/james/)
 
 
 ## Features
